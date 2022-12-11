@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "12fb0a8fb898ed4f4a2722a6a5454ad9",
-"index.html": "b06aed4a9181e0fd3b82fb0555a8ad65",
-"/": "b06aed4a9181e0fd3b82fb0555a8ad65",
+"index.html": "3555d014e77d8770282909a3f88f4371",
+"/": "3555d014e77d8770282909a3f88f4371",
 "main.dart.js": "877e1491752a6be3954896c4c98bac4d",
-"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -23,11 +22,7 @@ const RESOURCES = {
 "assets/assets/images/person.jpg": "f5710b036f2ba20137b1e85c80dc7d7e",
 "assets/assets/images/door_unlock.svg": "4428bb6d2e4d68088b5ab0e2c2472dba",
 "assets/assets/images/scooter.png": "a65167ab01d382641e7d347286626e9a",
-"assets/assets/images/page3.png": "44945d6a67d7dc150e1419a012f27f42",
-"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
+"assets/assets/images/page3.png": "44945d6a67d7dc150e1419a012f27f42"
 };
 
 // The application shell files that are downloaded before a service worker can
